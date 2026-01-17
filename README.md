@@ -36,7 +36,7 @@ I am a 5th-semester Computer Science student, passionate about backend technolog
 If you are looking for an ambitious intern, let's connect!
 
 * [LinkedIn](https://www.linkedin.com/in/adam-mus-046562335/)
-* [Gmail](gmailto:adammuspraca@gmail.com)
+* Email: adammuspraca@gmail.com
 
 ---
 
