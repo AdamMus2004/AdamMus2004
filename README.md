@@ -37,4 +37,3 @@ If you are looking for an ambitious intern, let's connect!
 ---
 
 ⭐ *Thanks for visiting my profile!*
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMus2004)](https://github.com/anuraghazra/github-readme-stats)
