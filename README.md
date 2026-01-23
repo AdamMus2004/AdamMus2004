@@ -1,16 +1,7 @@
-# Hi, I'm Adam! 👋
-
+# Hi, I'm Adam!
+---
 I am a 5th-semester Computer Science student, passionate about backend technologies and problem-solving. I am currently **looking for an internship or a junior position** to apply my skills in the Java ecosystem.
-
-### 🚀 About Me
-
-* 🎓 Studying Computer Science (currently 5th semester).
-* 💻 Specializing in **Java** and **Spring Boot**.
-* 🌱 Currently exploring microservices architecture and containerization.
-* 🎯 My goal: To become an effective Backend Developer.
-
-### 🛠️ Technologies & Tools
-
+### Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -24,18 +15,11 @@ I am a 5th-semester Computer Science student, passionate about backend technolog
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
-
-### 📊 My GitHub Stats
-
+---
+### My GitHub Stats
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMus2004&show_icons=true&theme=tokyonight&locale=en&hide_rank=true)
-
-### 📫 Contact
-
-If you are looking for an ambitious intern, let's connect!
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMus2004&layout=compact)](https://github.com/anuraghasra/github-readme-stats)
+---
+### Contact
 * [LinkedIn](https://www.linkedin.com/in/adam-mus-046562335/)
 * Email: adammuspraca@gmail.com
-
----
-
-⭐ *Thanks for visiting my profile!*
