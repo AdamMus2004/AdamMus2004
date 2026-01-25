@@ -17,7 +17,8 @@ I am a 5th-semester Computer Science student, passionate about backend technolog
 </p>
 
 ### My GitHub Stats
-
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamMus2004&show_icons=true&theme=tokyonight&locale=en&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMus2004&layout=compact)](https://github.com/anuraghasra/github-readme-stats)
 
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/adam-mus-046562335/)
