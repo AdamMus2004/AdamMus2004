@@ -23,4 +23,3 @@ I am a 5th-semester Computer Science student, passionate about backend technolog
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/adam-mus-046562335/)
 * Email: adammuspraca@gmail.com
-* 
