@@ -1,6 +1,6 @@
 # Hi, I'm Adam!
 
-I am a 5th-semester Computer Science student, passionate about backend technologies and problem-solving. I am currently **looking for an internship or a junior position** to apply my skills in the Java ecosystem.
+I am a 6th-semester Computer Science student, passionate about backend technologies and problem-solving. I am currently **looking for an internship or a junior position** to apply my skills in the Java ecosystem.
 ### Technologies & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
